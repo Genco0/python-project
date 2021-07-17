@@ -1,1 +1,2 @@
 merhaba dünya 
+push yapamadık
