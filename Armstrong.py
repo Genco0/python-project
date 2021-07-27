@@ -25,5 +25,4 @@ while b < len(x) :
    print("Girdiğiniz sayıyı Kontrol ediniz")
    break
   break
-print(new1)
-print(x1)
+
